@@ -1,0 +1,24 @@
+C:\Users\Kadir\source\repos\Veritabanı deneme\Veritabanı deneme\bin\Debug\Veritabanı deneme.exe.config
+C:\Users\Kadir\source\repos\Veritabanı deneme\Veritabanı deneme\bin\Debug\Veritabanı deneme.exe
+C:\Users\Kadir\source\repos\Veritabanı deneme\Veritabanı deneme\bin\Debug\Veritabanı deneme.pdb
+C:\Users\Kadir\source\repos\Veritabanı deneme\Veritabanı deneme\obj\Debug\Veritabanı deneme.csproj.AssemblyReference.cache
+C:\Users\Kadir\source\repos\Veritabanı deneme\Veritabanı deneme\obj\Debug\Veritabanı deneme.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kadir\source\repos\Veritabanı deneme\Veritabanı deneme\obj\Debug\Veritabanı_deneme.Form1.resources
+C:\Users\Kadir\source\repos\Veritabanı deneme\Veritabanı deneme\obj\Debug\Veritabanı_deneme.Properties.Resources.resources
+C:\Users\Kadir\source\repos\Veritabanı deneme\Veritabanı deneme\obj\Debug\Veritabanı deneme.csproj.GenerateResource.cache
+C:\Users\Kadir\source\repos\Veritabanı deneme\Veritabanı deneme\obj\Debug\Veritabanı deneme.csproj.CoreCompileInputs.cache
+C:\Users\Kadir\source\repos\Veritabanı deneme\Veritabanı deneme\obj\Debug\Veritabanı deneme.exe
+C:\Users\Kadir\source\repos\Veritabanı deneme\Veritabanı deneme\obj\Debug\Veritabanı deneme.pdb
+C:\Users\Kadir\source\repos\Veritabanı deneme\Veritabanı deneme\bin\Debug\Database1.accdb
+C:\Users\Kadir\source\repos\Veritabanı deneme\Veritabanı deneme\obj\Debug\Veritabanı_deneme.Form2.resources
+C:\Users\Kadir\source\repos\Veritabanı deneme\Veritabanı deneme\obj\Debug\Veritabanı_deneme.Form3.resources
+C:\Users\Kadir\source\repos\Veritabanı deneme\Veritabanı deneme\bin\Debug\EntityFramework.dll
+C:\Users\Kadir\source\repos\Veritabanı deneme\Veritabanı deneme\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kadir\source\repos\Veritabanı deneme\Veritabanı deneme\bin\Debug\System.Data.SQLite.dll
+C:\Users\Kadir\source\repos\Veritabanı deneme\Veritabanı deneme\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Kadir\source\repos\Veritabanı deneme\Veritabanı deneme\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Kadir\source\repos\Veritabanı deneme\Veritabanı deneme\bin\Debug\EntityFramework.xml
+C:\Users\Kadir\source\repos\Veritabanı deneme\Veritabanı deneme\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kadir\source\repos\Veritabanı deneme\Veritabanı deneme\bin\Debug\System.Data.SQLite.xml
+C:\Users\Kadir\source\repos\Veritabanı deneme\Veritabanı deneme\obj\Debug\Veritabanı deneme.csproj.CopyComplete
+C:\Users\Kadir\source\repos\Veritabanı deneme\Veritabanı deneme\obj\Debug\Veritabanı_deneme.Form4.resources
